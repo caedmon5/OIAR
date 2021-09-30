@@ -14,7 +14,7 @@ author: Gimena Del Rio Riande, Daniel Paul O'Donnell, Wouter Schallier
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About the OIAR: "aboutOIAR"
+  About OIAR: "aboutOIAR"
   Resources:
     - Programme: "https://beautifuljekyll.com"
     - Sponsors: "https://www.markdowntutorial.com/"
@@ -23,7 +23,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/MahsaLogo.jpg"
+avatar: "/assets/img/MahsaLogo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
