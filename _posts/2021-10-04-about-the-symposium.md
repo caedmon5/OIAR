@@ -3,7 +3,7 @@ layout: post
 title: About the Symposium
 subtitle: Nov. 8-12, 2021. Online.
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/MahsaThumbCroppedTransparent.png
 share-img: /assets/img/path.jpg
 tags: [about]
 ---
