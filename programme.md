@@ -17,4 +17,40 @@ subtitle: Open and Inclusive Access to Research, November 8-12, 2021
 ## 1700-1800 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)
 ### Conversation: Open Infrastructures
 
+# Tuesday 9 November
+## 1400-1530 UTC (11:00-12:30 Santiago; 10:00-11:30 Toronto)
+### Debate: Polices on Open Science on a Global Scale
+
+1. Content
+
+
+## 1530-1700 UTC (12:30-14:00 Santiago; 11:30-13:00 Toronto)
+**Break**
+
+## 1700-1800 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)
+### Conversation: Open Infrastructures
+
+
+# Wednesday 10 November
+## 1400-1530 UTC (11:00-12:30 Santiago; 10:00-11:30 Toronto)
+### Parallel Workshops 2
+
+1. Content
+
+
+## 1530-1700 UTC (12:30-14:00 Santiago; 11:30-13:00 Toronto)
+**Break**
+
+## 1700-1800 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)
+### Conversation: labour and Reward in Science
+
+# Thursday 11 November
+## 1400-1530 UTC (11:00-12:30 Santiago; 10:00-11:30 Toronto)
+
+
+## 1530-1700 UTC (12:30-14:00 Santiago; 11:30-13:00 Toronto)
+**Break**
+
+## 1700-1800 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)
+### Conversation: Open Infrastructures
 
