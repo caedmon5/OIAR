@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About the Symposium
-subtitle: The "Can-LATAM" virtual meeting
+subtitle: Nov. 8-12, 2021. Online.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
