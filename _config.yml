@@ -15,9 +15,8 @@ author: Gimena Del Rio Riande, Daniel Paul O'Donnell, Wouter Schallier
 
 navbar-links:
   About OIAR: "aboutOIAR"
-  Resources:
-    - Programme: "https://beautifuljekyll.com"
-    - Sponsors: "https://www.markdowntutorial.com/"
+  Programme: "programme"
+  Sponsors: "sponsors"
 
 # --- Logo --- #
 
