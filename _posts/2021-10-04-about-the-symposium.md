@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About the Symposium / Sobre el Simposio
+title: Open and Inclusive Access to Research
 subtitle: Nov. 8-11, 2021. Online.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/MahsaThumbCroppedTransparent.png
