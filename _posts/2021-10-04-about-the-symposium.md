@@ -5,7 +5,7 @@ subtitle: Nov. 8-11, 2021. Online.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/MahsaThumbCroppedTransparent.png
 share-img: /assets/img/path.jpg
-tags: [Open Research Practices]
+tags: [about]
 ---
 
 _Open and Inclusive Access to Research_ is a three day virtual symposium, organised by Gimena Del Rio Riande, Daniel Paul O'Donnell, and Wouter Schallier. Primary funding was provided by the Social Science and Humanities Research Council of Canada (SSHRC), with addition financial and in-kind support provided by Eclac, FORCE11, and the Sloan Foundation through the _Reimagining Educational Practices for Open_ (REPO) project. The coapplicants and collaborators on the proposal were Gimena Del Rio Riande, CONICET; Juan Pablo Alperin, Simon Fraser University; Wouter Schallier, ECLAC; and Tanja Niemann, Université de Montréal. 
