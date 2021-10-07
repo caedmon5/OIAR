@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About the Symposium
-subtitle: Open and Inclusive Access to Research, November 8-12, 2021
+subtitle: Open and Inclusive Access to Research, November 8-11, 2021
 ---
 
-_Open and Inclusive Access to Research_ is a four day virtual symposium, organised by Gimena Del Rio Riande, Daniel Paul O'Donnell, and Wouter Schallier. Primary funding was provided by the Social Science and Humanities Research Council of Canada (SSHRC), with addition financial and in-kind support provided by Eclac, Force11, and the Sloan Foundation through the _Reimagining Educational Practices for Open_ (REPO) project. The coapplicants and collaborators on the proposal were Gimena Del Rio Riande, CONICYT; Juan Pablo Alperin, Simon Fraser University; Wouter Schallier, ECLAC; and Tanja Niemann, Université de Montréal. 
+_Open and Inclusive Access to Research_ is a three day virtual symposium, organised by Gimena Del Rio Riande, Daniel Paul O'Donnell, and Wouter Schallier. Primary funding was provided by the Social Science and Humanities Research Council of Canada (SSHRC), with addition financial and in-kind support provided by Eclac, Force11, and the Sloan Foundation through the _Reimagining Educational Practices for Open_ (REPO) project. The coapplicants and collaborators on the proposal were Gimena Del Rio Riande, CONICYT; Juan Pablo Alperin, Simon Fraser University; Wouter Schallier, ECLAC; and Tanja Niemann, Université de Montréal. 
 
 The goal of this workshop is to bring experts and early career research professionals from Canada and Latin America together in a bilingual workshop environment that will enable them to exchange knowledge and expertise about Open Research Practices in a strategic yet very hands-on manner, with panels and prominent speakers from both continents. Researchers and policy makers in both Canada and Latin America have played leading roles internationally in the area of Open and Inclusive access to research, and particularly in Open Access, Open Data, and Open Science and Scholarship as a means to achieve this. The goal of this workshop is to bring those experts and early career researchers together to discuss areas of convergence and difference in a more systematic way.
 
