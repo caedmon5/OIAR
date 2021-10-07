@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <span style="color: DarkCyan;">About the Symposium / Sobre el Simposio</span>
+title: About the Symposium / Sobre el Simposio
 subtitle: Nov. 8-11, 2021. Online.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/MahsaThumbCroppedTransparent.png
