@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Symposium
+title: About the Symposium / Sobre el Simposio
 subtitle: Open and Inclusive Access to Research, November 8-11, 2021
 ---
 
@@ -11,7 +11,6 @@ The goal of this workshop is to bring experts and early career research professi
 The project was submitted in February 2020 to fund what originally supposed to be an in-person event the following fall. Between submission and the award announcement, of course, the world entered the global COVID-19 health emergency. SSHRC allowed the applicants and coapplicants on the grant to switch to an online format and the results are what you see here. We are grateful to SSHRC, our other sponsors, our applicants and co-applicants, and the speakers and participants for the patience and flexibility they have shown as we have adapted to an ever changing health environment.
 
 ----
-
 
 _Acceso Abierto e Inclusivo a la Investigación_ es un simposio virtual de tres días, organizado por Gimena Del Rio Riande, Daniel Paul O'Donnell y Wouter Schallier. La financiación primaria fue proporcionada por el Consejo de Investigación en Ciencias Sociales y Humanidades de Canadá (SSHRC), con apoyo financiero y en adicional proporcionado por Eclac, FORCE11 y la Fundación Sloan a través del proyecto _Reimagining Educational Practices for Open_ (REPO). Los coaplicantes y colaboradores de la propuesta fueron Gimena Del Rio Riande, CONICET; Juan Pablo Alperin, Universidad Simon Fraser; Wouter Schallier, CEPAL; y Tanja Niemann, Université de Montréal.
 
