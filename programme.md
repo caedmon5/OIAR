@@ -19,18 +19,18 @@ subtitle: Open and Inclusive Access to Research, November 8-11, 2021
 
 
 # Tuesday / Martes 9 
-## <span style="color: DarkCyan;">14:00-15:30 UTC (11:00-12:30 Santiago; 10:00-11:30 Toronto)</span>
-### Debate: Polices on Open Science on a Global Scale / Políticas sobre la Ciencia Abierta a escala global
+### <span style="color: DarkCyan;">14:00-15:30 UTC (11:00-12:30 Santiago; 10:00-11:30 Toronto)</span>
+#### Debate: Polices on Open Science on a Global Scale / Políticas sobre la Ciencia Abierta a escala global
 1. ***The Value of Open Science / El valor de la Ciencia Abierta***. Jean-Claude Burgelman
 1. ***The Brave New World? Turning Open Science Principles into Practice / Un mundo feliz? Tranformando los principios de la Ciencia Abierta en prácticas***. Paul Ayris
 1. Arianna Becerril
 
 
 
-### <span style="color: DarkCyan;">1530-1700 UTC (12:30-14:00 Santiago; 11:30-13:00 Toronto)</span>
+### <span style="color: DarkCyan;">15:30-17:00 UTC (12:30-14:00 Santiago; 11:30-13:00 Toronto)</span>
 **Break**
 
-### <span style="color: DarkCyan;">1700-1800 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)</span>
+### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)</span>
 #### Conversation: Open Infrastructures
 
 
@@ -42,24 +42,24 @@ subtitle: Open and Inclusive Access to Research, November 8-11, 2021
 
 
 
-### <span style="color: DarkCyan;">1530-1700 UTC (12:30-14:00 Santiago; 11:30-13:00 Toronto)</span>
+### <span style="color: DarkCyan;">15:30-17:00 UTC (12:30-14:00 Santiago; 11:30-13:00 Toronto)</span>
 **Break**
 
-### <span style="color: DarkCyan;">1700-1800 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)</span>
+### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)</span>
 #### Conversation: labour and Reward in Science
 
 
 # Thursday / Jueves 11 
-### <span style="color: DarkCyan;">1400-1530 UTC (11:00-12:30 Santiago; 10:00-11:30 Toronto)</span>
+### <span style="color: DarkCyan;">14:00-15:30 UTC (11:00-12:30 Santiago; 10:00-11:30 Toronto)</span>
 #### Book presentation and debate / Presentación de libro y debate
 _Tendencias Recientes en las Políticas Científicas de Ciencia Abierta y Acceso Abierto en Iberoamérica_ (CLACSO). Dominique Babini (CLACSO-Amelica) y Laura Rovelli (UNLP-CONICET, FOLEC)
 Moderator / Moderador: Carlos Authier (CONICET)
 
 
 
-### <span style="color: DarkCyan;">1530-1700 UTC (12:30-14:00 Santiago; 11:30-13:00 Toronto)</span>
+### <span style="color: DarkCyan;">15:30-17:00 UTC (12:30-14:00 Santiago; 11:30-13:00 Toronto)</span>
 **Break**
 
-### <span style="color: DarkCyan;">1700-1800 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)</span>
+### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)</span>
 #### Conversation: Open Infrastructures
 
