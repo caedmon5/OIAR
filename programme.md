@@ -5,7 +5,7 @@ subtitle: Open and Inclusive Access to Research, November 8-11, 2021
 ---
 
 # Monday / Lunes 8
-<span style="color:blue"> ### 1400-1530 UTC (11:00-12:30 Santiago; 10:00-11:30 Toronto)</span>
+### 1400-1530 UTC (11:00-12:30 Santiago; 10:00-11:30 Toronto)
 #### Workshops 1
 1._Metrics and alternative metrics in Scholarly Publishing / Métricas y alternativas en la publicación científica_. Josmel Pacheco (Universidad San Ignacio de Loyola, Peru)(Spanish)
 2. TBA
