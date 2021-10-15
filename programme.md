@@ -7,10 +7,9 @@ subtitle: Open and Inclusive Access to Research, November 8-11, 2021
 # Monday / Lunes 8
 ### <span style="color: DarkCyan;">14:00-15:30 UTC (11:00-12:30 Santiago; 10:00-11:30 Toronto)</span>
 #### Paralell Workshops 1
-1. ***Digital Rights and Ethical Usage of (Big) Data / Derechos digitales y usos éticos de (grandes) datos***. Maria Paz Hermosilla (Universidad Adolfo Ibañez, Chile) (Spanish).
+1. ***Digital Rights and Ethical Usage of (Big) Data / Derechos digitales y usos éticos de (grandes) datos***. Maria Paz Hermosilla (Universidad Adolfo Ibañez, Chile) (Spanish). 
 2. ***Translation Systems for Global Knowledge Justice / Sistemas de traducción para un conocimiento justo y  global***. Simon Worthington (FORCE11) (English). 
 
-### <span style="color: DarkCyan;">15:30-17:00 UTC (12:30-14:00 Santiago; 11:30-13:00 Toronto)</span>
                                          **Break**
 
 ### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)</span>
