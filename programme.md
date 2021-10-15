@@ -5,6 +5,7 @@ subtitle: Open and Inclusive Access to Research, November 8-11, 2021
 ---
 
 # Monday / Lunes 8
+
 ### <span style="color: DarkCyan;">14:00-15:30 UTC (11:00-12:30 Santiago; 10:00-11:30 Toronto)</span>
 #### Paralell Workshops 1
 1. ***Digital Rights and Ethical Usage of (Big) Data / Derechos digitales y usos éticos de (grandes) datos***. Maria Paz Hermosilla (Universidad Adolfo Ibañez, Chile) (Spanish). 
