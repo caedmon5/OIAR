@@ -10,7 +10,9 @@ subtitle: Open and Inclusive Access to Research, November 8-11, 2021
 #### Paralell Workshops 1
 1. ***Digital Rights and Ethical Usage of (Big) Data / Derechos digitales y usos éticos de (grandes) datos***. Maria Paz Hermosilla (Universidad Adolfo Ibañez, Chile) (Spanish). 
 2. ***Translation Systems for Global Knowledge Justice / Sistemas de traducción para un conocimiento justo y  global***. Simon Worthington (FORCE11) (English). 
+
                                          **Break**
+                                         
 ### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)</span>
 #### Paralell Workshops 2
 1. ***Metrics and alternative metrics in Scholarly Publishing / Métricas y alternativas en la publicación científica***. Josmel Pacheco (Universidad San Ignacio de Loyola, Peru) (Spanish).
