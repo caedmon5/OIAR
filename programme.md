@@ -24,9 +24,9 @@ subtitle: Open and Inclusive Access to Research, November 8-11, 2021
 ### <span style="color: DarkCyan;">14:00-15:30 UTC (11:00-12:30 Santiago; 10:00-11:30 Toronto)</span>
 #### Debate: Open Science on a Global Scale / Ciencia Abierta a escala global 
 
-***The Value of Open Science / El valor de la Ciencia Abierta***. Jean-Claude Burgelman (Free University of Brussels)
-***The Brave New World? Turning Open Science Principles into Practice / Un mundo feliz? Tranformando los principios de la Ciencia Abierta en prácticas***. Paul Ayris (UCL Library Services)
-Arianna Becerril (Redalyc, Amelica)
+* ***The Value of Open Science / El valor de la Ciencia Abierta***. Jean-Claude Burgelman (Free University of Brussels)
+* ***The Brave New World? Turning Open Science Principles into Practice / Un mundo feliz? Tranformando los principios de la Ciencia Abierta en prácticas***. Paul Ayris (UCL Library Services)
+* Arianna Becerril (Redalyc, Amelica).
 Moderator / Moderador: Wouter Schallier
 
                                         **Break**
@@ -42,6 +42,7 @@ Moderator /Moderador: Fernando Piraquive (Universidad Nacional de Colombia)
 # Wednesday / Miércoles 10 
 ### <span style="color: DarkCyan;">1400-1530 UTC (11:00-12:30 Santiago; 10:00-11:30 Toronto)</span>
 #### Paralell Workshops 2
+
 1. ***Geographic diversity in academic publishing: could all voices be heard? /Diversidad geográfica en la publicación académica: pueden oirse todas las voces?***. Barbara Rivera (Universidad de Chile) (Spanish)
 2. ***What Open Science do we want? Challenges and disputes for the democratization of knowledge / Qué Ciencia Abierta queremos? Desafíos y disputas en la democratización del conocimiento***. Thaiane Oliveira (Universidade Federal Fluminense, Brazil) (Spanish)  
 
@@ -69,6 +70,6 @@ Moderator / Moderadora: Patricia Peña (Universidad de Chile)
 ### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)</span>
 #### Conversations 2: Open Publishing Infrastructures 2 / Infraestructuras abiertas para la publicación científica 
 
-***The good, the bad and the ugly / El bueno, el feo y el malo***. Ivonne Lujano (University of Arizona, USA) & Juan Pablo Alperin (Simon Fraser University, Canada)
+***The good, the bad and the ugly / El bueno, el feo y el malo***. Ivonne Lujano (University of Arizona, USA) & Juan Pablo Alperin (Simon Fraser University, Canada).
 Moderator / Moderadora: Gimena del Rio Riande (CONICET)
 
