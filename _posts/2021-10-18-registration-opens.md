@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Registration Opens
-subtitle: 
+subtitle: ?
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/MahsaThumbCroppedTransparent.png
 share-img: /assets/img/path.jpg
