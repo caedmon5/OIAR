@@ -1,11 +1,11 @@
 ---
 layout: post
-title: About the Symposium
-subtitle: Sobre el simposio
+title: Registration Opens for Open and Inclusive Access to Research
+subtitle: test
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/MahsaThumbCroppedTransparent.png
 share-img: /assets/img/path.jpg
-tags: [about]
+tags: [about][registration][programme]
 ---
 
 Registration is now open for _Open and Inclusive Access to Research_ . All sessions will be held in the same Zoom room, so you only need to register once.
@@ -14,8 +14,4 @@ Registration is now open for _Open and Inclusive Access to Research_ . All sessi
 
 After you have registered you will receive a confirmation email containing information about joining the meeting.
 
-
-
-
----
 
