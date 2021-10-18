@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Register
+title: Register / Inscripción
 subtitle: November 8-11, 2021
 ---
 Registration for _Open and Inclusive Access to Research_ is free. 
+
 La inscripción a  _Open and Inclusive Access to Research / Acceso abierto e inclusivo a la investigación_ es gratuita.
 
-To register for _Open and Inclusive Access to Research_, please following the following link / Inscripción aquí: 
+To register for _Open and Inclusive Access to Research_, please following the following link.
+
+***Inscripción aquí***: 
 
 [https://uleth.zoom.us/meeting/register/tJAvfuitrDgsGt2YsmayUhSJvZMWBp9Qwsha](https://uleth.zoom.us/meeting/register/tJAvfuitrDgsGt2YsmayUhSJvZMWBp9Qwsha)
 
