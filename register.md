@@ -13,6 +13,8 @@ After registering, you will receive a confirmation email containing information 
 
 All sessions will be held in the same "room." Simultaneous interpretation will be offered.
 
+An [ICS (calendar) file](http://openandinclusiveresearch.org/assets/img/OIAR.ics) is  available for [_Open and Inclusive Access to Research_].
+
 ---
 
 La inscripción a  _Acceso abierto e inclusivo a la investigación_ es gratuita.
