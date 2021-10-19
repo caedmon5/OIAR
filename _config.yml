@@ -15,7 +15,9 @@ author: Gimena Del Rio Riande, Daniel Paul O'Donnell, Wouter Schallier
 
 navbar-links:
   About OIAR: "aboutOIAR"
-  Programme: "programme"
+  Programme: 
+    - Web programme: "programme"
+    - ICS Calendar file: "assets/img/OIAR.ics" 
   Registration: "register"
   Sponsors: "sponsors"
 
