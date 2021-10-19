@@ -30,7 +30,7 @@ subtitle: Open and Inclusive Access to Research, November 8-11, 2021
 
 Arianna Becerril (Redalyc, Amelica).
 
-Moderator / Moderador: Wouter Schallier
+  Moderator / Moderador: Wouter Schallier
 
                                         **Break**
 
@@ -38,7 +38,7 @@ Moderator / Moderador: Wouter Schallier
 ### <span style="color: SlateGray;">Conversations 1: Open Publishing Infrastructures 1 / Infraestructuras abiertas para la publicación científica</span>
 ***LAReferencia and Érudit***. Bianca Amaro (IBICT) and Tanja Niemann (Érudit Consortium)
 
-Moderator /Moderador: Fernando Piraquive (Universidad Nacional de Colombia)
+  Moderator /Moderador: Fernando Piraquive (Universidad Nacional de Colombia)
 
 # Wednesday / Miércoles 10 
 ## <span style="color: DarkCyan;">1400-1530 UTC (11:00-12:30 Santiago; 10:00-11:30 Toronto)</span>
@@ -50,27 +50,27 @@ Moderator /Moderador: Fernando Piraquive (Universidad Nacional de Colombia)
                                         **Break**
 
 ## <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)</span>
-### <span style="color: SlateGray;">Conversation: Labour and Reward in Science</span>
-
+### <span style="color: SlateGray;">Conversations 2: Open Scholarship</span>
+***Labour and Reward in Science / Trabajo y premios en la investigación***. Ricardo Dal Farra (Université Concordia, Canada) and Vincent Larivière (Université Montréal, Camada)
 
 # Thursday / Jueves 11 
 ## <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 10:00-11:00 Toronto)</span>
 ### <span style="color: SlateGray;">Book presentation and debate / Presentación de libro y debate</span> 
-_Tendencias Recientes en las Políticas Científicas de Ciencia Abierta y Acceso Abierto en Iberoamérica_ (CLACSO). Dominique Babini (CLACSO-Amelica) y Laura Rovelli (UNLP-CONICET, FOLEC).
+***Tendencias Recientes en las Políticas Científicas de Ciencia Abierta y Acceso Abierto en Iberoamérica*** (CLACSO). Dominique Babini (CLACSO-Amelica) y Laura Rovelli (UNLP-CONICET, FOLEC).
 
-Moderator / Moderador: Carlos Authier (CONICET)
+  Moderator / Moderador: Carlos Authier (CONICET)
 
 ## <span style="color: DarkCyan;">15:00-16:00 UTC (12:00-13:00 Santiago; 11:00-12:00 Toronto)</span>
 ### <span style="color: SlateGray;">Bazaar / Bazar</span>
- _REPO Project & FORCE11_ (Dan O'Donnell, John Chodacki, Mandy Taha)
+ ***REPO Project & FORCE11*** (Dan O'Donnell, John Chodacki, Mandy Taha)
 
-Moderator / Moderadora: Patricia Peña (Universidad de Chile)
+  Moderator / Moderadora: Patricia Peña (Universidad de Chile)
 
                                         **Break**
 
 ## <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)</span>
-### <span style="color: SlateGray;">Conversations 2: Open Publishing Infrastructures 2 / Infraestructuras abiertas para la publicación científica</span> 
+### <span style="color: SlateGray;">Conversations 3: Open Publishing Infrastructures 2 / Infraestructuras abiertas para la publicación científica</span> 
 ***The good, the bad and the ugly / El bueno, el feo y el malo***. Ivonne Lujano (University of Arizona, USA) & Juan Pablo Alperin (Simon Fraser University, Canada)
 
-Moderator / Moderadora: Gimena del Rio Riande (CONICET)
+  Moderator / Moderadora: Gimena del Rio Riande (CONICET, Argentina)
 
