@@ -70,7 +70,7 @@ subtitle: Open and Inclusive Access to Research. Acceso abierto e inclusivo a la
 
 ## <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)</span>
 ### <span style="color: SlateGray;">Conversations 3: Open Publishing Infrastructures 2 / Infraestructuras abiertas para la publicación científica (Simultaneous interpretation)</span> 
-***The good, the bad and the ugly / El bueno, el feo y el malo***. Ivonne Lujano (University of Arizona, USA) & Juan Pablo Alperin (Simon Fraser University, Canada)
+***The good, the bad and the ugly / El bueno, el feo y el malo***. Ivonne Lujano (DOAJ América Latina, University of Arizona, USA) & Juan Pablo Alperin (Simon Fraser University, Canada)
 
   Moderator / Moderadora: Gimena del Rio Riande (CONICET, Argentina)
 
