@@ -48,7 +48,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 ### <span style="color: SlateGray;">Conversations 1: Open Publishing Infrastructures 1 / Infraestructuras abiertas para la publicación científica (Simultaneous interpretation)</span>
 ***LAReferencia and Érudit***. Bianca Amaro (IBICT, Brazil) and Tanja Niemann (Érudit Consortium, Canada)
 
-  Moderator /Moderador: Fernando Piraquive (Universidad Nacional de Colombia)
+  Moderator /Moderador: Fernando Piraquive (Universidad Distrital Francisco José de Caldas - Centro de Investigaciones y Desarrollo Científico, Colombia)
 
 # Wednesday / Miércoles 10  {#Wednesday}
 ## <span style="color: DarkCyan;">14:00-15:30 UTC (11:00-12:30 Santiago; 9:00-10:30 Toronto)</span>
