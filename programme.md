@@ -28,7 +28,7 @@ subtitle: Open and Inclusive Access to Research, November 8-11, 2021
 
 ***The Brave New World? Turning Open Science Principles into Practice / Un mundo feliz? Tranformando los principios de la Ciencia Abierta en prácticas***. Paul Ayris (UCL Library Services, UK)
 
-Arianna Becerril (Redalyc, Amelica).
+***Políticas para favorecer el Acceso Abierto no comercial***. Arianna Becerril (Redalyc, Amelica)
 
   Moderator / Moderador: Wouter Schallier
 
