@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sponsors
-subtitle: Open and Inclusive Access to Research.Nov. 8-11, 2021. Online.
+subtitle: Open and Inclusive Access to Research / Acceso abierto e inclusivo a la investigación
 ---
 
 
