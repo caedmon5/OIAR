@@ -10,7 +10,7 @@ subtitle: Open and Inclusive Access to Research / Acceso abierto e inclusivo a l
 
 [![Sloan](assets/img/sloanLogo.png){:width="200px";padding="100px"}](https://sloan.org/)  
   
-**The Alfred P. Sloan Foundation**
+**The Alfred P. Sloan Foundation** (The REPO project)
 
 [![F11](assets/img/force11-website-logo.png){:width="200px";padding="100px"}](https://force11.org)  
   
