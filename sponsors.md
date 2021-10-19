@@ -11,7 +11,7 @@ subtitle: Open and Inclusive Access to Research / Acceso abierto e inclusivo a l
 
 ![F11](assets/img/force11-website-logo.png){:width="100px"} [FORCE11](https://force11.org)
 
-![CLASCO](assets/img/Logo-Clasco-2019-transparent.png){:width="100px"} [Consejo Latinoamericano de Ciencias Sociales (CLACSO)](https://www.clacso.org)
+![CLASCO](assets/img/Logo-Clacso-2019-transparent.png){:width="100px"} [Consejo Latinoamericano de Ciencias Sociales (CLACSO)](https://www.clacso.org)
 
 ![CONICET](assets/img/conicet.jpeg){:width="100px"} [Centro Argentino de Información Científica y Tecnológica (CAICYT-CONICET)](https://www.conicet.gov.ar/caicyt/)
 
