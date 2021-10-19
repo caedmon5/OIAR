@@ -3,6 +3,9 @@ layout: page
 title: Programme / Programa
 subtitle: Open and Inclusive Access to Research. Acceso abierto e inclusivo a la investigación. November/Noviembre 8-11, 2021
 ---
+
+A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics).
+
 # Monday / Lunes 8
 ## <span style="color: DarkCyan;">14:00-15:30 UTC (11:00-12:30 Santiago; 9:00-10:30 Toronto)</span>
 ### <span style="color: SlateGray;">Parallel Workshops 1</span>
