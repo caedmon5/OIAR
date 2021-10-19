@@ -13,7 +13,7 @@ subtitle: Open and Inclusive Access to Research / Acceso abierto e inclusivo a l
 
 ![CLASCO](assets/img/Logo-Clacso-2019-transparent.png){:width="100px"} [Consejo Latinoamericano de Ciencias Sociales (CLACSO)](https://www.clacso.org)
 
-![CONICET](assets/img/conicet.jpeg){:width="100px"} [Centro Argentino de Información Científica y Tecnológica (CAICYT-CONICET)](https://www.conicet.gov.ar/caicyt/)
+![CONICET](assets/img/conicet-logo.png){:width="100px"} [Centro Argentino de Información Científica y Tecnológica (CAICYT-CONICET)](https://www.conicet.gov.ar/caicyt/)
 
 ![uleth](assets/img/4colTransparent.png){:width="100px"} [The University of Lethbridge](http://uleth.ca)
 
