@@ -41,7 +41,7 @@ subtitle: Open and Inclusive Access to Research. Acceso abierto e inclusivo a la
   Moderator /Moderador: Fernando Piraquive (Universidad Nacional de Colombia)
 
 # Wednesday / Miércoles 10 
-## <span style="color: DarkCyan;">1400-1530 UTC (11:00-12:30 Santiago; 9:00-10:30 Toronto)</span>
+## <span style="color: DarkCyan;">14:00-15:30 UTC (11:00-12:30 Santiago; 9:00-10:30 Toronto)</span>
 ### <span style="color: SlateGray;">Parallel Workshops 3</span>
 1. ***Geographic diversity in academic publishing: could all voices be heard? /Diversidad geográfica en la publicación académica: pueden oirse todas las voces?***. Barbara Rivera (Universidad de Chile) (Spanish)
 
