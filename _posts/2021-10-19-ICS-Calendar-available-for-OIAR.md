@@ -4,7 +4,7 @@ title: ICS/Calendar file available for OIAR
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/MahsaThumbCroppedTransparent.png
 share-img: /assets/img/path.jpg
-tags: [about,registration]
+tags: [about,registration,calendar]
 ---
 
 An [ICS (calendar) file](http://openandinclusiveresearch.org/assets/img/OIAR.ics) is  for [_Open and Inclusive Access to Research_]. You can use this to add all OIAR events to your calendar for the week. We will update the ICS file in the event of changes.
