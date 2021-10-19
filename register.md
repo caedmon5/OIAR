@@ -16,6 +16,7 @@ All sessions will be held in the same "room." Simultaneous interpretation will b
 ---
 
 La inscripción a  _Acceso abierto e inclusivo a la investigación_ es gratuita.
+
 ***Inscripción aquí***:
 
 [https://uleth.zoom.us/meeting/register/tJAvfuitrDgsGt2YsmayUhSJvZMWBp9Qwsha](https://uleth.zoom.us/meeting/register/tJAvfuitrDgsGt2YsmayUhSJvZMWBp9Qwsha)
