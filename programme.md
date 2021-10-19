@@ -5,10 +5,10 @@ subtitle: Open and Inclusive Access to Research. Acceso abierto e inclusivo a la
 ---
 
 A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
-* [Monday 8/11](#Monday)
-* [Tuesday 9/11] (#Tuesday)
-* [Wednesday 10/11] (#Wednesday)
-* [#Thursday 11/11](#Thursday)
+* [Monday Lunes 8/11](#Monday)
+* [Tuesday Martes 9/11] (#Tuesday)
+* [Wednesday Miércoles 10/11] (#Wednesday)
+* [#Thursday Jueves 11/11](#Thursday)
 
 
 # Monday / Lunes 8 {#Monday}
