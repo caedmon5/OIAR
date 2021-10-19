@@ -5,7 +5,7 @@ subtitle: Open and Inclusive Access to Research / Acceso abierto e inclusivo a l
 ---
 
 
-![SSHRC](assets/img/sshrc.jpeg){:width="200px";padding="100px"} [The Social Science and Humanities Research Council (Canada)](https://www.sshrc-crsh.gc.ca/){:color="black"}
+[![SSHRC](assets/img/sshrc.jpeg){:width="200px";padding="100px"}](https://www.sshrc-crsh.gc.ca/){:color="black"} The Social Science and Humanities Research Council (Canada)
 
 ![Sloan](assets/img/sloanLogo.png){:width="200px";padding="100px"} [The Alfred P. Sloan Foundation](https://sloan.org/){:color="black"}
 
