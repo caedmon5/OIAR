@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programme / Programa
-subtitle: Open and Inclusive Access to Research, November 8-11, 2021
+subtitle: Open and Inclusive Access to Research. Acceso abierto e inclusivo a la investigación. November/Noviembre 8-11, 2021
 ---
 # Monday / Lunes 8
 ## <span style="color: DarkCyan;">14:00-15:30 UTC (11:00-12:30 Santiago; 10:00-11:30 Toronto)</span>
@@ -23,7 +23,7 @@ subtitle: Open and Inclusive Access to Research, November 8-11, 2021
 
 # Tuesday / Martes 9 
 ## <span style="color: DarkCyan;">14:00-15:30 UTC (11:00-12:30 Santiago; 10:00-11:30 Toronto)</span>
-### <span style="color: SlateGray;">Debate: Open Science on a Global Scale / Ciencia Abierta a escala global</span> 
+### <span style="color: SlateGray;">Debate: Open Science on a Global Scale / Ciencia Abierta a escala global (Simultaneous interpretation)</span> 
 ***The Value of Open Science / El valor de la Ciencia Abierta***. Jean-Claude Burgelman (Free University of Brussels, Belgium)
 
 ***The Brave New World? Turning Open Science Principles into Practice / Un mundo feliz? Tranformando los principios de la Ciencia Abierta en prácticas***. Paul Ayris (UCL Library Services, UK)
@@ -35,7 +35,7 @@ subtitle: Open and Inclusive Access to Research, November 8-11, 2021
                                         **Break**
 
 ## <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)</span>
-### <span style="color: SlateGray;">Conversations 1: Open Publishing Infrastructures 1 / Infraestructuras abiertas para la publicación científica</span>
+### <span style="color: SlateGray;">Conversations 1: Open Publishing Infrastructures 1 / Infraestructuras abiertas para la publicación científica (Simultaneous interpretation)</span>
 ***LAReferencia and Érudit***. Bianca Amaro (IBICT, Brazil) and Tanja Niemann (Érudit Consortium, Canada)
 
   Moderator /Moderador: Fernando Piraquive (Universidad Nacional de Colombia)
@@ -50,7 +50,7 @@ subtitle: Open and Inclusive Access to Research, November 8-11, 2021
                                         **Break**
 
 ## <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)</span>
-### <span style="color: SlateGray;">Conversations 2: Open Scholarship</span>
+### <span style="color: SlateGray;">Conversations 2: Open Scholarship (Simultaneous interpretation)</span>
 ***Labour and Reward in Science / Trabajo y premios en la investigación***. Ricardo Dal Farra (Université Concordia, Canada) and Vincent Larivière (Université Montréal, Canada)
 
 # Thursday / Jueves 11 
@@ -61,7 +61,7 @@ subtitle: Open and Inclusive Access to Research, November 8-11, 2021
   Moderator / Moderador: Carlos Authier (CONICET, Argentina)
 
 ## <span style="color: DarkCyan;">15:00-16:00 UTC (12:00-13:00 Santiago; 11:00-12:00 Toronto)</span>
-### <span style="color: SlateGray;">Bazaar / Bazar</span>
+### <span style="color: SlateGray;">Bazaar / Bazar (Simultaneous interpretation)</span>
  ***REPO Project & FORCE11*** (Dan O'Donnell, John Chodacki, Mandy Taha)
 
   Moderator / Moderadora: Patricia Peña (Universidad de Chile)
@@ -69,7 +69,7 @@ subtitle: Open and Inclusive Access to Research, November 8-11, 2021
                                         **Break**
 
 ## <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)</span>
-### <span style="color: SlateGray;">Conversations 3: Open Publishing Infrastructures 2 / Infraestructuras abiertas para la publicación científica</span> 
+### <span style="color: SlateGray;">Conversations 3: Open Publishing Infrastructures 2 / Infraestructuras abiertas para la publicación científica (Simultaneous interpretation)</span> 
 ***The good, the bad and the ugly / El bueno, el feo y el malo***. Ivonne Lujano (University of Arizona, USA) & Juan Pablo Alperin (Simon Fraser University, Canada)
 
   Moderator / Moderadora: Gimena del Rio Riande (CONICET, Argentina)
