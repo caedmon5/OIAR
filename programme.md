@@ -65,8 +65,10 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 
 ## Thursday / Jueves 11  {#Thursday}
 ### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00 Toronto)</span>
-#### <span style="color: SlateGray;">Book presentation and debate / Presentación de libro y debate</span> 
-***Tendencias Recientes en las Políticas Científicas de Ciencia Abierta y Acceso Abierto en Iberoamérica*** (CLACSO). Dominique Babini (CLACSO-Amelica) y Laura Rovelli (UNLP-CONICET, FOLEC, Argentina).
+#### <span style="color: SlateGray;">Book presentation and report / Presentación de libro e informe </span> 
+***Tendencias Recientes en las Políticas Científicas de Ciencia Abierta y Acceso Abierto en Iberoamérica (CLACSO)***. Dominique Babini (CLACSO-Amelica) y Laura Rovelli (UNLP-CONICET, FOLEC, Argentina)
+
+***Herramienta 2 FOLEC-CLACSO. Para promover la bibliodiversidad y defender el multilingüismo"***. Fernanda Beigel (INCIHUSA-CONICET/Centro de Estudios de la Circulación del Conocimiento- FCPYS-UNCuyo-Argentina)
 
   Moderator / Moderador: Carlos Authier (CONICET, Argentina)
 
