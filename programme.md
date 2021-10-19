@@ -4,9 +4,14 @@ title: Programme / Programa
 subtitle: Open and Inclusive Access to Research. Acceso abierto e inclusivo a la investigación. November/Noviembre 8-11, 2021
 ---
 
-A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics).
+A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
+* [Monday 8/11](#Monday)
+* [Tuesday 9/11] (#Tuesday)
+* [Wednesday 10/11] (#Wednesday)
+* [#Thursday 11/11](#Thursday)
 
-# Monday / Lunes 8
+
+# Monday / Lunes 8 {#Monday}
 ## <span style="color: DarkCyan;">14:00-15:30 UTC (11:00-12:30 Santiago; 9:00-10:30 Toronto)</span>
 ### <span style="color: SlateGray;">Parallel Workshops 1</span>
 1. ***Digital Rights and Ethical Usage of (Big) Data / Derechos digitales y usos éticos de (grandes) datos***. Maria Paz Hermosilla (Universidad Adolfo Ibañez, Chile) (Spanish)
@@ -24,7 +29,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics).
 
 
 
-# Tuesday / Martes 9 
+# Tuesday / Martes 9  {#Tuesday} 
 ## <span style="color: DarkCyan;">14:00-15:30 UTC (11:00-12:30 Santiago; 9:00-10:30 Toronto)</span>
 ### <span style="color: SlateGray;">Debate: Open Science on a Global Scale / Ciencia Abierta a escala global (Simultaneous interpretation)</span> 
 ***The Value of Open Science / El valor de la Ciencia Abierta***. Jean-Claude Burgelman (Free University of Brussels, Belgium)
@@ -43,7 +48,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics).
 
   Moderator /Moderador: Fernando Piraquive (Universidad Nacional de Colombia)
 
-# Wednesday / Miércoles 10 
+# Wednesday / Miércoles 10  {#Wednesday}
 ## <span style="color: DarkCyan;">14:00-15:30 UTC (11:00-12:30 Santiago; 9:00-10:30 Toronto)</span>
 ### <span style="color: SlateGray;">Parallel Workshops 3</span>
 1. ***Geographic diversity in academic publishing: could all voices be heard? /Diversidad geográfica en la publicación académica: pueden oirse todas las voces?***. Barbara Rivera (Universidad de Chile) (Spanish)
@@ -56,7 +61,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics).
 ### <span style="color: SlateGray;">Conversations 2: Open Scholarship (Simultaneous interpretation)</span>
 ***Labour and Reward in Science / Trabajo y premios en la investigación***. Ricardo Dal Farra (Université Concordia, Canada) and Vincent Larivière (Université Montréal, Canada)
 
-# Thursday / Jueves 11 
+# Thursday / Jueves 11  {#Thursday}
 ## <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00 Toronto)</span>
 ### <span style="color: SlateGray;">Book presentation and debate / Presentación de libro y debate</span> 
 ***Tendencias Recientes en las Políticas Científicas de Ciencia Abierta y Acceso Abierto en Iberoamérica*** (CLACSO). Dominique Babini (CLACSO-Amelica) y Laura Rovelli (UNLP-CONICET, FOLEC, Argentina).
