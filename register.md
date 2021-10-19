@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Register / Inscripción
-subtitle: November 8-11, 2021
+subtitle: November/Noviembre 8-11, 2021
 ---
 Registration for _Open and Inclusive Access to Research_ is free. 
 
-<span style="color: DarkCyan;">La inscripción a  _Open and Inclusive Access to Research / Acceso abierto e inclusivo a la investigación_ es gratuita.</span>
+<span style="color: DarkCyan;">La inscripción a  _Acceso abierto e inclusivo a la investigación_ es gratuita.</span>
 
 To register for _Open and Inclusive Access to Research_, please following the following link.
 
