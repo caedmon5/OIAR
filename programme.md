@@ -42,7 +42,7 @@ subtitle: Open and Inclusive Access to Research. Acceso abierto e inclusivo a la
 
 # Wednesday / Miércoles 10 
 ## <span style="color: DarkCyan;">1400-1530 UTC (11:00-12:30 Santiago; 9:00-10:30 Toronto)</span>
-### <span style="color: SlateGray;">Parallel Workshops 2</span>
+### <span style="color: SlateGray;">Parallel Workshops 3</span>
 1. ***Geographic diversity in academic publishing: could all voices be heard? /Diversidad geográfica en la publicación académica: pueden oirse todas las voces?***. Barbara Rivera (Universidad de Chile) (Spanish)
 
 2. ***What Open Science do we want? Challenges and disputes for the democratization of knowledge / Qué Ciencia Abierta queremos? Desafíos y disputas en la democratización del conocimiento***. Thaiane Oliveira (Universidade Federal Fluminense, Brazil) (English)  
