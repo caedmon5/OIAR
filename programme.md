@@ -14,7 +14,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 # Programme/Programa
 
 ## Monday / Lunes 8 {#Monday}
-### <span style="color: DarkCyan;">14:00-15:30 UTC (11:00-12:30 Santiago; 9:00-10:30 Toronto)</span>
+### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:3000 Santiago; 9:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Parallel Workshops 1</span>
 1. ***Digital Rights and Ethical Usage of (Big) Data / Derechos digitales y usos éticos de (grandes) datos***. Maria Paz Hermosilla (Universidad Adolfo Ibañez, Chile) (Spanish)
 
@@ -32,7 +32,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 
 
 ## Tuesday / Martes 9  {#Tuesday} 
-### <span style="color: DarkCyan;">14:00-15:30 UTC (11:00-12:30 Santiago; 9:00-10:30 Toronto)</span>
+### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Debate: Open Science on a Global Scale / Ciencia Abierta a escala global (Simultaneous interpretation)</span> 
 ***The Value of Open Science / El valor de la Ciencia Abierta***. Jean-Claude Burgelman (Free University of Brussels, Belgium)
 
@@ -51,7 +51,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
   Moderator /Moderador: Fernando Piraquive (Universidad Distrital Francisco José de Caldas - Centro de Investigaciones y Desarrollo Científico, Colombia)
 
 ## Wednesday / Miércoles 10  {#Wednesday}
-### <span style="color: DarkCyan;">14:00-15:30 UTC (11:00-12:30 Santiago; 9:00-10:30 Toronto)</span>
+### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Parallel Workshops 3</span>
 1. ***Geographic diversity in academic publishing: could all voices be heard? /Diversidad geográfica en la publicación académica: pueden oirse todas las voces?***. Barbara Rivera (Universidad de Chile) (Spanish)
 
