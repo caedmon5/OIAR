@@ -84,5 +84,5 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 #### <span style="color: SlateGray;">Conversations 3: Open Publishing Infrastructures 2 / Infraestructuras abiertas para la publicación científica (Simultaneous interpretation)</span> 
 ***The good, the bad and the ugly / El bueno, el feo y el malo. Sobre las infraestructuras abiertas para la publicación científica en América Latina***. Ivonne Lujano (DOAJ América Latina, University of Arizona, USA) & Juan Pablo Alperin (Simon Fraser University, Canada)
 
-  Moderator / Moderador: Néstor Daniel Martínez-Domínguez
+  Moderator / Moderador: Néstor Daniel Martínez-Domínguez (Universidad Nacional Autónoma Metropolitana, Mexico)
 
