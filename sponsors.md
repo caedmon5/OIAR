@@ -26,6 +26,6 @@ subtitle: Open and Inclusive Access to Research / Acceso abierto e inclusivo a l
   
 **The University of Lethbridge**
 
-[![DOAJ] (assets/img/DOAJ_logo-colour.png) {:width="100px";padding="100px"}] (https://doaj.org/)
+[![DOAJ](assets/img/DOAJ_logo-colour.png) {:width="100px";padding="100px"}] (https://doaj.org/)
 
 **Directory of Open Access Journals (DOAJ)**
