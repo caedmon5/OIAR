@@ -25,7 +25,7 @@ La inscripción a  _Acceso abierto e inclusivo a la investigación_ es gratuita.
 
 Recibirás un email de confirmación con los detalles de la reunión.
 
-Todas las sesiones se desarrollarán en la misma sala. Ofreceremos traducción simultánea en las presentaciones (no talleres).
+Todas las sesiones se desarrollarán en la misma sala. Ofreceremos traducción simultánea en las presentaciones (no talleres). 
 
 
 
