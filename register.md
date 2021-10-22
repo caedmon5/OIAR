@@ -13,7 +13,7 @@ After registering, you will receive a confirmation email containing information 
 
 All sessions will be held in the same "room." Simultaneous interpretation will be offered.
 
-An [ICS (calendar) file](http://openandinclusiveresearch.org/assets/img/OIAR.ics) is  available for [_Open and Inclusive Access to Research_].
+An [ICS (calendar) file](http://openandinclusiveresearch.org/assets/img/OIAR.ics) is  available for [_Open and Inclusive Access to Research_]. Certificates of attendance will be emailed after the symposium.
 
 ---
 
@@ -25,7 +25,7 @@ La inscripción a  _Acceso abierto e inclusivo a la investigación_ es gratuita.
 
 Recibirás un email de confirmación con los detalles de la reunión.
 
-Todas las sesiones se desarrollarán en la misma sala. Ofreceremos traducción simultánea en las presentaciones (no talleres). 
+Todas las sesiones se desarrollarán en la misma sala. Ofreceremos traducción simultánea en las presentaciones (no talleres). Se otorgarán certificados de asistencia. 
 
 
 
