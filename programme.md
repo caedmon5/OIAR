@@ -5,7 +5,7 @@ subtitle: Open and Inclusive Access to Research. Acceso abierto e inclusivo a la
 ---
 
 # Table of Contents
-* [Monday Lunes 8/11](#Monday1700)
+* [Monday Lunes 8/11](#Monday)
 * [Tuesday Martes 9/11](#Tuesday)
 * [Wednesday Miércoles 10/11](#Wednesday)
 * [Thursday Jueves 11/11](#Thursday)
@@ -13,7 +13,7 @@ subtitle: Open and Inclusive Access to Research. Acceso abierto e inclusivo a la
 A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 # Programme/Programa
 
-## Monday / Lunes 8 {#Monday1400}
+## Monday / Lunes 8 {#Monday}
 ### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Parallel Workshops 1</span>
 1. ***Digital Rights and Ethical Usage of (Big) Data / Derechos digitales y usos éticos de (grandes) datos***. Maria Paz Hermosilla (Universidad Adolfo Ibañez, Chile) (Spanish)
@@ -22,7 +22,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 
                                          **Break**
 
-### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 12:00-13:00 Toronto)</span>{#Monday1700}
+### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 12:00-13:00 Toronto)</span>
 #### <span style="color: SlateGray;">Parallel Workshops 2</span>
 
 1. ***Metrics and alternative metrics in Scholarly Publishing / Métricas y alternativas en la publicación científica***. Josmel Pacheco (Universidad San Ignacio de Loyola, Peru) (Spanish).
