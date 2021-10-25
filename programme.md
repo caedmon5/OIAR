@@ -39,7 +39,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 
 ***The Brave New World? Turning Open Science Principles into Practice / Un mundo feliz? Tranformando los principios de la Ciencia Abierta en prácticas***. Paul Ayris (UCL Library Services, UK)
 
-***Políticas para favorecer el Acceso Abierto no comercial***. Arianna Becerril (Redalyc, Amelica)
+***Políticas para favorecer el Acceso Abierto no comercial***. Arianna Becerril (Redalyc - Amelica, Mexico)
 
   Moderator / Moderador: Wouter Schallier (Hernán Santa Cruz Library - ECLAC; Chile)
 
@@ -54,6 +54,8 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 ### <span style="color: DarkCyan;">18:00-19:00 UTC (15:00-16:00 Santiago; 13:00-14:00 Toronto)</span>
 #### <span style="color: SlateGray;">Talk (Simultaneous interpretation)</span>
 ***Rethinking Scholarly Communications through the lens of Design Justice? / Repensar la comunicacion científica a través de la mirada de la "Design Justice"?***. Leslie Chan (University of Toronto, Canada)
+
+Moderador / Moderator: Eduardo Giordanino (Universidad de Buenos Aires, Argentina)
 
 
 
