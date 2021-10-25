@@ -27,9 +27,8 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 
 1. ***Metrics and alternative metrics in Scholarly Publishing / Métricas y alternativas en la publicación científica***. Josmel Pacheco (Universidad San Ignacio de Loyola, Peru) (Spanish).
 
-2. ***Reimagining Educational Practices for Open (REPO) Workbook***. Nathan Woods (University of Lethbridge, Canada) (English).
+2. ***Workbook: Reimagining Educational Practices for Open (REPO) Workbook / Reimaginando prácticas educativas abiertas (REPO)***. Nathan Woods (University of Lethbridge, Canada) (English).
 
-3. ***Datos, humanidades y antropoceno: abriendo prácticas***. Virginia Brussa (Universidad Nacional de Rosario, Argentina)
 
 
 
@@ -64,6 +63,8 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 1. ***Geographic diversity in academic publishing: could all voices be heard? /Diversidad geográfica en la publicación académica: pueden oirse todas las voces?***. Barbara Rivera (Universidad de Chile) (Spanish)
 
 2. ***What Open Science do we want? Challenges and disputes for the democratization of knowledge / Qué Ciencia Abierta queremos? Desafíos y disputas en la democratización del conocimiento***. Thaiane Oliveira (Universidade Federal Fluminense, Brazil) (English)  
+
+3. ***Datos, humanidades y antropoceno: abriendo prácticas / Data, humanities and the antropocene: opening practices***. Virginia Brussa (Universidad Nacional de Rosario, Argentina)
 
                                         **Break**
 
