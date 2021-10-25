@@ -29,6 +29,8 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 
 2. ***Reimagining Educational Practices for Open (REPO) Workbook***. Nathan Woods (University of Lethbridge, Canada) (English).
 
+3. ***Datos, humanidades y antropoceno: abriendo prácticas***. Virginia Brussa (Universidad Nacional de Rosario, Argentina)
+
 
 
 ## Tuesday / Martes 9  {#Tuesday} 
