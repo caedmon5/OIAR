@@ -40,7 +40,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 
 ***Políticas para favorecer el Acceso Abierto no comercial***. Arianna Becerril (Redalyc, Amelica)
 
-  Moderator / Moderador: Wouter Schallier
+  Moderator / Moderador: Wouter Schallier (Hernán Santa Cruz Library - ECLAC; Chile)
 
                                         **Break**
 
@@ -68,6 +68,8 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 ### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 12:00-13:00 Toronto)</span>
 #### <span style="color: SlateGray;">Conversations 2: Open Scholarship (Simultaneous interpretation)</span>
 ***Labour and Reward in Science / Trabajo y premios en la investigación***. Ricardo Dal Farra (Université Concordia, Canada) and Vincent Larivière (Université Montréal, Canada)
+
+Moderator / Moderadora: Fiona Murphy (MoreBrains, UK)
 
 
 
