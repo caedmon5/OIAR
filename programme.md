@@ -65,9 +65,7 @@ Moderador / Moderator: Eduardo Giordanino (Universidad de Buenos Aires, Argentin
 1. ***Geographic diversity in academic publishing: could all voices be heard? /Diversidad geográfica en la publicación académica: pueden oirse todas las voces?***. Barbara Rivera (Universidad de Chile) (Spanish)
 
 2. ***What Open Science do we want? Challenges and disputes for the democratization of knowledge / Qué Ciencia Abierta queremos? Desafíos y disputas en la democratización del conocimiento***. Thaiane Oliveira (Universidade Federal Fluminense, Brazil) (English)
-    * [Abstract](../abstracts/#oliT)
-      
-
+    
 3. ***Datos, humanidades y antropoceno: abriendo prácticas / Data, humanities and the antropocene: opening practices***. Virginia Brussa (Universidad Nacional de Rosario, Argentina)
 
                                         **Break**
