@@ -27,7 +27,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 
 1. ***Metrics and alternative metrics in Scholarly Publishing / Métricas y alternativas en la publicación científica***. Josmel Pacheco (Universidad San Ignacio de Loyola, Peru) (Spanish).
 
-2. ***Workbook: Reimagining Educational Practices for Open (REPO) Workbook / Reimaginando prácticas educativas abiertas (REPO)***. Nathan Woods (University of Lethbridge, Canada) (English).
+2. ***Developing a REPO Assessment Workbook: Supporting Open Science Communities in the Transition to Online Learning.***. Nathan Woods (University of Lethbridge, Canada) (English).
 
 
 
@@ -83,7 +83,7 @@ Moderator / Moderadora: Fiona Murphy (MoreBrains, UK)
 #### <span style="color: SlateGray;">Book presentation and report / Presentación de libro e informe </span> 
 ***Tendencias Recientes en las Políticas Científicas de Ciencia Abierta y Acceso Abierto en Iberoamérica (CLACSO)***. Dominique Babini (CLACSO-Amelica) y Laura Rovelli (UNLP-CONICET, FOLEC, Argentina)
 
-***Herramienta 2 FOLEC-CLACSO. Para promover la bibliodiversidad y defender el multilingüismo"***. Fernanda Beigel (INCIHUSA-CONICET/Centro de Estudios de la Circulación del Conocimiento- FCPYS-UNCuyo-Argentina)
+***Herramienta 2 FOLEC-CLACSO. Para promover la bibliodiversidad y defender el multilingüismo***. Fernanda Beigel (INCIHUSA-CONICET/Centro de Estudios de la Circulación del Conocimiento- FCPYS-UNCuyo-Argentina)
 
   Moderator / Moderador: Carlos Authier (CONICET, Argentina)
 
