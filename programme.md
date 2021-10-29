@@ -13,7 +13,7 @@ subtitle: Open and Inclusive Access to Research. Acceso abierto e inclusivo a la
 A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 # Programme/Programa
 
-## <span style="color: DarkTurquoise;">Monday / Lunes 8</span> {#Monday}
+## <span style="color: DarkTurquoise;">MONDAY / LUNES 8</span> {#Monday}
 ### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Parallel Workshops 1</span>
 1. ***Digital Rights and Ethical Usage of (Big) Data / Derechos digitales y usos éticos de (grandes) datos***. Maria Paz Hermosilla (Universidad Adolfo Ibañez, Chile) (Spanish)
