@@ -11,7 +11,7 @@ subtitle: Open and Inclusive Access to Research. Acceso abierto e inclusivo a la
 * [Thursday Jueves 11/11](#Thursday)
 
 A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
-# Programme/Programa
+
 
 ## <span style="color: DarkTurquoise;">MONDAY / LUNES 8</span> {#Monday}
 ### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00 Toronto)</span>
@@ -32,7 +32,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 
 
 
-## <span style="color: DarkTurquoise;">Tuesday / Martes 9</span>  {#Tuesday} 
+## <span style="color: DarkTurquoise;">TUESDAY / MARTES 9</span>  {#Tuesday} 
 ### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Debate: Open Science on a Global Scale / Ciencia Abierta a escala global (Simultaneous interpretation)</span> 
 ***The Value of Open Science / El valor de la Ciencia Abierta***. Jean-Claude Burgelman (Free University of Brussels, Belgium)
@@ -59,7 +59,7 @@ Moderador / Moderator: Eduardo Giordanino (Universidad de Buenos Aires, Argentin
 
 
 
-## <span style="color: DarkTurquoise;">Wednesday / Miércoles 10</span>  {#Wednesday}
+## <span style="color: DarkTurquoise;">WEDNESDAY / MIERCOLES 10</span>  {#Wednesday}
 ### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Parallel Workshops 3</span>
 1. ***Geographic diversity in academic publishing: could all voices be heard? /Diversidad geográfica en la publicación académica: pueden oirse todas las voces?***. Barbara Rivera (Universidad de Chile) (Spanish)
@@ -78,7 +78,7 @@ Moderator / Moderadora: Fiona Murphy (MoreBrains, UK)
 
 
 
-## <span style="color: DarkTurquoise;">Thursday / Jueves 11</span>  {#Thursday}
+## <span style="color: DarkTurquoise;">THURSDAY / JUEVES 11</span>  {#Thursday}
 ### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Book presentation and report / Presentación de libro e informe </span> 
 ***Tendencias Recientes en las Políticas Científicas de Ciencia Abierta y Acceso Abierto en Iberoamérica (CLACSO)***. Dominique Babini (CLACSO-Amelica) y Laura Rovelli (UNLP-CONICET, FOLEC, Argentina)
