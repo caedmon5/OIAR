@@ -26,6 +26,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 #### <span style="color: SlateGray;">Parallel Workshops 2</span>
 
 1. ***Metrics and alternative metrics in Scholarly Publishing / Métricas y alternativas en la publicación científica***. Josmel Pacheco (Universidad San Ignacio de Loyola, Peru) (Spanish).
+    * [Abstract](../abstracts/#josP)
 
 2. ***Developing a REPO Assessment Workbook: Supporting Open Science Communities in the Transition to Online Learning***. Nathan Woods (University of Lethbridge, Canada) (English).
 
