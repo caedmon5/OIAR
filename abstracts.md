@@ -3,7 +3,8 @@ layout: page
 title: Abstracts
 subtitle: Open and Inclusive Access to Research. Acceso abierto e inclusivo a la investigación. November/Noviembre 8-11, 2021
 ---
-* **Alperin, Juan Pablo** (Simon Fraser University, Canada). *The good, the bad and the ugly / El bueno, el feo y el malo. Sobre las infraestructuras abiertas para la publicación científica en América Latina*. [**11/11/21 17:00 UTC**](../programme/#Thursday)
+
+* <a id="alpJ"/> **Alperin, Juan Pablo** (Simon Fraser University, Canada). *The good, the bad and the ugly / El bueno, el feo y el malo. Sobre las infraestructuras abiertas para la publicación científica en América Latina*. [**11/11/21 17:00 UTC**](../programme/#Thursday)
     * **Biography/Biografía:** El Dr. Juan Pablo Alperin es Profesor en la Universidad de Simon Fraser, Director Asociado del Public Knowledge Project y Co-Director del Scholarly Communications Lab. Su investigación y trabajos incluyen temas de acceso abierto, métricas alternativas y el uso de tecnologías en el ámbito académico, con el objetivo de mejorar la calidad, impacto y uso de la investigación.<a id="amaB"/>
 * **Amaro, Bianca** (IBICT, Brazil). *LAReferencia and Érudit*. [**9/11/21 17:00 UTC**](../programme/#Tuesday)
     * **Biography/Biografía:** <a id="ayrP"/>
