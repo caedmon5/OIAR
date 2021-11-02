@@ -39,13 +39,13 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 ### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Debate: Open Science on a Global Scale / Ciencia Abierta a escala global (Simultaneous interpretation)</span> 
 ***The Value of Open Science / El valor de la Ciencia Abierta***. Jean-Claude Burgelman (Free University of Brussels, Belgium).
-    * [Biography](../abstracts/#burJ)
+ 
 
 ***The Brave New World? Turning Open Science Principles into Practice / Un mundo feliz? Tranformando los principios de la Ciencia Abierta en prácticas***. Paul Ayris (UCL Library Services, UK).
-    * [Biography](../abstracts/#ayrP)
+
 
 ***Políticas para favorecer el Acceso Abierto no comercial***. Arianna Becerril (Redalyc - Amelica, Mexico).
-    * [Biography](../abstracts/#becA)
+
 
   Moderator / Moderador: Wouter Schallier (Hernán Santa Cruz Library - ECLAC; Chile)
 
@@ -60,7 +60,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 ### <span style="color: DarkCyan;">18:00-19:00 UTC (15:00-16:00 Santiago; 13:00-14:00 Toronto)</span>
 #### <span style="color: SlateGray;">Talk (Simultaneous interpretation)</span>
 ***Rethinking Scholarly Communications through the lens of Design Justice? / Repensar la comunicacion científica a través de la mirada de la "Design Justice"?***. Leslie Chan (University of Toronto, Canada)
-    * [Biography](../abstracts/#chaL)
+
 
 Moderador / Moderator: Eduardo Giordanino (Universidad de Buenos Aires, Argentina)
 
