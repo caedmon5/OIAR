@@ -34,7 +34,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 ## <span style="color: DarkTurquoise;">TUESDAY / MARTES 9</span>  {#Tuesday} 
 ### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Debate: Open Science on a Global Scale / Ciencia Abierta a escala global (Simultaneous interpretation)</span> 
-***The Value of Open Science / El valor de la Ciencia Abierta***. Jean-Claude Burgelman (Free University of Brussels, Belgium).
+***The Value of Open Science / El valor de la Ciencia Abierta***. [Jean-Claude Burgelman](../abstracts/#burJ) (Free University of Brussels, Belgium). 
  
 ***The Brave New World? Turning Open Science Principles into Practice / Un mundo feliz? Tranformando los principios de la Ciencia Abierta en prácticas***. [Paul Ayris](../abstracts/#ayrP) (UCL Library Services, UK).
 
@@ -46,7 +46,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 
 ### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 12:00-13:00 Toronto)</span>
 #### <span style="color: SlateGray;">Conversations 1: Open Publishing Infrastructures 1 / Infraestructuras abiertas para la publicación científica (Simultaneous interpretation)</span>
-***LAReferencia and Érudit***. Bianca Amaro (IBICT, Brazil) and Tanja Niemann (Érudit Consortium, Canada)
+***LAReferencia and Érudit***. [Bianca Amaro](../programme/#amaB) (IBICT, Brazil) & [Tanja Niemann](../programme/#nieT) (Érudit Consortium, Canada)
 
   Moderator /Moderador: Fernando Piraquive (Universidad Distrital Francisco José de Caldas - Centro de Investigaciones y Desarrollo Científico, Colombia)
 
@@ -71,7 +71,7 @@ Moderador / Moderator: Eduardo Giordanino (Universidad de Buenos Aires, Argentin
 
 ### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 12:00-13:00 Toronto)</span>
 #### <span style="color: SlateGray;">Conversations 2: Open Scholarship (Simultaneous interpretation)</span>
-***Labour and Reward in Science / Trabajo y premios en la investigación***. Ricardo Dal Farra (Université Concordia, Canada) and Vincent Larivière (Université Montréal, Canada)
+***Labour and Reward in Science / Trabajo y premios en la investigación***. [Ricardo Dal Farra](../abstracts/#dalR) (Université Concordia, Canada) & [Vincent Larivière](../abstracts/#larV) (Université Montréal, Canada)
 
 Moderator / Moderadora: Fiona Murphy (MoreBrains, UK)
 
@@ -80,7 +80,7 @@ Moderator / Moderadora: Fiona Murphy (MoreBrains, UK)
 ## <span style="color: DarkTurquoise;">THURSDAY / JUEVES 11</span>  {#Thursday}
 ### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Book presentation and report / Presentación de libro e informe </span> 
-***Tendencias Recientes en las Políticas Científicas de Ciencia Abierta y Acceso Abierto en Iberoamérica (CLACSO)***. Dominique Babini (CLACSO-Amelica) y Laura Rovelli (UNLP-CONICET, FOLEC, Argentina)
+***Tendencias Recientes en las Políticas Científicas de Ciencia Abierta y Acceso Abierto en Iberoamérica (CLACSO)***. [Dominique Babini](../abstracts/#babD) (CLACSO-Amelica) & [Laura Rovelli](../abstracts/#rovL) (UNLP-CONICET, FOLEC, Argentina)
 
 ***Herramienta 2 FOLEC-CLACSO. Para promover la bibliodiversidad y defender el multilingüismo***. [Fernanda Beigel](../abstracts/#beiF) (INCIHUSA-CONICET/Centro de Estudios de la Circulación del Conocimiento- FCPYS-UNCuyo-Argentina).
 
@@ -96,7 +96,7 @@ Moderator / Moderador: Carlos Authier (CONICET, Argentina)
 
 ### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 12:00-13:00 Toronto)</span>
 #### <span style="color: SlateGray;">Conversations 3: Open Publishing Infrastructures 2 / Infraestructuras abiertas para la publicación científica (Simultaneous interpretation)</span> 
-***The good, the bad and the ugly / El bueno, el feo y el malo. Sobre las infraestructuras abiertas para la publicación científica en América Latina***. Ivonne Lujano (DOAJ América Latina, University of Arizona, USA) & Juan Pablo Alperin (Simon Fraser University, Canada)
+***The good, the bad and the ugly / El bueno, el feo y el malo. Sobre las infraestructuras abiertas para la publicación científica en América Latina***. [Ivonne Lujano](../abstracts/#alpJ) (DOAJ América Latina, University of Arizona, USA) & [Juan Pablo Alperin](../abstracts/#lujI) (Simon Fraser University, Canada)
 
   Moderator / Moderador: Néstor Daniel Martínez-Domínguez (Universidad Nacional Autónoma Metropolitana, Mexico)
 
