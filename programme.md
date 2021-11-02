@@ -16,22 +16,18 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 ## <span style="color: DarkTurquoise;">MONDAY / LUNES 8</span> {#Monday}
 ### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Parallel Workshops 1</span>
-1. ***Digital Rights and Ethical Usage of (Big) Data / Derechos digitales y usos éticos de (grandes) datos***. Maria Paz Hermosilla (Universidad Adolfo Ibañez, Chile) (Spanish)
-    * [About this workshop](../abstracts/#pazM)
+1. ***Digital Rights and Ethical Usage of (Big) Data / Derechos digitales y usos éticos de (grandes) datos***. Maria Paz Hermosilla (Universidad Adolfo Ibañez, Chile) (Spanish). [About this workshop](../abstracts/#pazM)
 
-2. ***Translation Systems for Global Knowledge Justice / Sistemas de traducción para un conocimiento justo y  global***. Simon Worthington (FORCE11) (English)
-    * [About this workshop](../abstracts/#worS)
+2. ***Translation Systems for Global Knowledge Justice / Sistemas de traducción para un conocimiento justo y  global***. Simon Worthington (FORCE11) (English). [About this workshop](../abstracts/#worS)
    
                                          **Break**
 
 ### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 12:00-13:00 Toronto)</span>
 #### <span style="color: SlateGray;">Parallel Workshops 2</span>
 
-1. ***Metrics and alternative metrics in Scholarly Publishing / Métricas y alternativas en la publicación científica***. Josmel Pacheco (Universidad San Ignacio de Loyola, Peru) (Spanish).
-    * [About this workshop](../abstracts/#pacJ)
+1. ***Metrics and alternative metrics in Scholarly Publishing / Métricas y alternativas en la publicación científica***. Josmel Pacheco (Universidad San Ignacio de Loyola, Peru) (Spanish). [About this workshop](../abstracts/#pacJ)
 
-2. ***Developing a REPO Assessment Workbook: Supporting Open Science Communities in the Transition to Online Learning***. Nathan Woods (University of Lethbridge, Canada) (English).
-    * [About this workshop](../abstracts/#wooN)
+2. ***Developing a REPO Assessment Workbook: Supporting Open Science Communities in the Transition to Online Learning***. Nathan Woods (University of Lethbridge, Canada) (English). [About this workshop](../abstracts/#wooN)
 
 
 
@@ -65,14 +61,11 @@ Moderador / Moderator: Eduardo Giordanino (Universidad de Buenos Aires, Argentin
 ## <span style="color: DarkTurquoise;">WEDNESDAY / MIERCOLES 10</span>  {#Wednesday}
 ### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Parallel Workshops 3</span>
-1. ***Geographic diversity in academic publishing: could all voices be heard? /Diversidad geográfica en la publicación académica: pueden oirse todas las voces?***. Barbara Rivera (Universidad de Chile) (Spanish)
-    * [About this workshop](../abstracts/#rivB)
+1. ***Geographic diversity in academic publishing: could all voices be heard? /Diversidad geográfica en la publicación académica: pueden oirse todas las voces?***. Barbara Rivera (Universidad de Chile) (Spanish). [About this workshop](../abstracts/#rivB)
 
-2. ***What Open Science do we want? Challenges and disputes for the democratization of knowledge / Qué Ciencia Abierta queremos? Desafíos y disputas en la democratización del conocimiento***. Thaiane Oliveira (Universidade Federal Fluminense, Brazil) (English)
-    * [About this workshop](../abstracts/#oliT)
+2. ***What Open Science do we want? Challenges and disputes for the democratization of knowledge / Qué Ciencia Abierta queremos? Desafíos y disputas en la democratización del conocimiento***. Thaiane Oliveira (Universidade Federal Fluminense, Brazil) (English). [About this workshop](../abstracts/#oliT)
     
-3. ***Datos, humanidades y antropoceno: abriendo prácticas / Data, humanities and the antropocene: opening practices***. Virginia Brussa (Universidad Nacional de Rosario, Argentina)
-    * [About this workshop](../abstracts/#bruV)
+3. ***Datos, humanidades y antropoceno: abriendo prácticas / Data, humanities and the antropocene: opening practices***. Virginia Brussa (Universidad Nacional de Rosario, Argentina). [About this workshop](../abstracts/#bruV)
 
                                         **Break**
 
