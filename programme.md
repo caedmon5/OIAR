@@ -42,9 +42,10 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
  
 
 ***The Brave New World? Turning Open Science Principles into Practice / Un mundo feliz? Tranformando los principios de la Ciencia Abierta en prácticas***. Paul Ayris (UCL Library Services, UK).
-
+* [Biography](../abstracts/#ayrP)
 
 ***Políticas para favorecer el Acceso Abierto no comercial***. Arianna Becerril (Redalyc - Amelica, Mexico).
+* [Biography](../abstracts/#becA)
 
 
   Moderator / Moderador: Wouter Schallier (Hernán Santa Cruz Library - ECLAC; Chile)
@@ -60,6 +61,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 ### <span style="color: DarkCyan;">18:00-19:00 UTC (15:00-16:00 Santiago; 13:00-14:00 Toronto)</span>
 #### <span style="color: SlateGray;">Talk (Simultaneous interpretation)</span>
 ***Rethinking Scholarly Communications through the lens of Design Justice? / Repensar la comunicacion científica a través de la mirada de la "Design Justice"?***. Leslie Chan (University of Toronto, Canada)
+* [Biography](../abstracts/#chaL)
 
 
 Moderador / Moderator: Eduardo Giordanino (Universidad de Buenos Aires, Argentina)
@@ -93,10 +95,10 @@ Moderator / Moderadora: Fiona Murphy (MoreBrains, UK)
 #### <span style="color: SlateGray;">Book presentation and report / Presentación de libro e informe </span> 
 ***Tendencias Recientes en las Políticas Científicas de Ciencia Abierta y Acceso Abierto en Iberoamérica (CLACSO)***. Dominique Babini (CLACSO-Amelica) y Laura Rovelli (UNLP-CONICET, FOLEC, Argentina)
 
-***Herramienta 2 FOLEC-CLACSO. Para promover la bibliodiversidad y defender el multilingüismo***. Fernanda Beigel (INCIHUSA-CONICET/Centro de Estudios de la Circulación del Conocimiento- FCPYS-UNCuyo-Argentina)
-    * [Biography](../abstracts/#beiF)
+***Herramienta 2 FOLEC-CLACSO. Para promover la bibliodiversidad y defender el multilingüismo***. Fernanda Beigel (INCIHUSA-CONICET/Centro de Estudios de la Circulación del Conocimiento- FCPYS-UNCuyo-Argentina).
+* [Biography](../abstracts/#beiF)
 
-  Moderator / Moderador: Carlos Authier (CONICET, Argentina)
+Moderator / Moderador: Carlos Authier (CONICET, Argentina)
 
 ### <span style="color: DarkCyan;">15:00-16:00 UTC (12:00-13:00 Santiago; 10:00-11:00 Toronto)</span>
 #### <span style="color: SlateGray;">Bazaar / Bazar (Simultaneous interpretation)</span>
