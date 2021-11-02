@@ -38,13 +38,13 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 ## <span style="color: DarkTurquoise;">TUESDAY / MARTES 9</span>  {#Tuesday} 
 ### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Debate: Open Science on a Global Scale / Ciencia Abierta a escala global (Simultaneous interpretation)</span> 
-***The Value of Open Science / El valor de la Ciencia Abierta***. Jean-Claude Burgelman (Free University of Brussels, Belgium)
+***The Value of Open Science / El valor de la Ciencia Abierta***. Jean-Claude Burgelman (Free University of Brussels, Belgium).
     * [Biography](../abstracts/#burJ)
 
-***The Brave New World? Turning Open Science Principles into Practice / Un mundo feliz? Tranformando los principios de la Ciencia Abierta en prácticas***. Paul Ayris (UCL Library Services, UK)
+***The Brave New World? Turning Open Science Principles into Practice / Un mundo feliz? Tranformando los principios de la Ciencia Abierta en prácticas***. Paul Ayris (UCL Library Services, UK).
     * [Biography](../abstracts/#ayrP)
 
-***Políticas para favorecer el Acceso Abierto no comercial***. Arianna Becerril (Redalyc - Amelica, Mexico)
+***Políticas para favorecer el Acceso Abierto no comercial***. Arianna Becerril (Redalyc - Amelica, Mexico).
     * [Biography](../abstracts/#becA)
 
   Moderator / Moderador: Wouter Schallier (Hernán Santa Cruz Library - ECLAC; Chile)
