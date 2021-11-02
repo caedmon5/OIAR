@@ -17,10 +17,10 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 ### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Parallel Workshops 1</span>
 1. ***Digital Rights and Ethical Usage of (Big) Data / Derechos digitales y usos éticos de (grandes) datos***. Maria Paz Hermosilla (Universidad Adolfo Ibañez, Chile) (Spanish)
-    * [Abstract](../abstracts/#pazM)
+    * [Abstract and Biography](../abstracts/#pazM)
 
 2. ***Translation Systems for Global Knowledge Justice / Sistemas de traducción para un conocimiento justo y  global***. Simon Worthington (FORCE11) (English)
-    * [Abstract](../abstracts/#worS)
+    * [Abstract and Biography](../abstracts/#worS)
    
                                          **Break**
 
@@ -28,10 +28,10 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 #### <span style="color: SlateGray;">Parallel Workshops 2</span>
 
 1. ***Metrics and alternative metrics in Scholarly Publishing / Métricas y alternativas en la publicación científica***. Josmel Pacheco (Universidad San Ignacio de Loyola, Peru) (Spanish).
-    * [Abstract](../abstracts/#pacJ)
+    * [Abstract and Biography](../abstracts/#pacJ)
 
 2. ***Developing a REPO Assessment Workbook: Supporting Open Science Communities in the Transition to Online Learning***. Nathan Woods (University of Lethbridge, Canada) (English).
-
+    * [Abstract and Biography](../abstracts/#wooN)
 
 
 
@@ -39,10 +39,13 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 ### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Debate: Open Science on a Global Scale / Ciencia Abierta a escala global (Simultaneous interpretation)</span> 
 ***The Value of Open Science / El valor de la Ciencia Abierta***. Jean-Claude Burgelman (Free University of Brussels, Belgium)
+    * [Biography](../abstracts/#burJ)
 
 ***The Brave New World? Turning Open Science Principles into Practice / Un mundo feliz? Tranformando los principios de la Ciencia Abierta en prácticas***. Paul Ayris (UCL Library Services, UK)
+    * [Biography](../abstracts/#ayrP)
 
 ***Políticas para favorecer el Acceso Abierto no comercial***. Arianna Becerril (Redalyc - Amelica, Mexico)
+    * [Biography](../abstracts/#becA)
 
   Moderator / Moderador: Wouter Schallier (Hernán Santa Cruz Library - ECLAC; Chile)
 
@@ -57,6 +60,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 ### <span style="color: DarkCyan;">18:00-19:00 UTC (15:00-16:00 Santiago; 13:00-14:00 Toronto)</span>
 #### <span style="color: SlateGray;">Talk (Simultaneous interpretation)</span>
 ***Rethinking Scholarly Communications through the lens of Design Justice? / Repensar la comunicacion científica a través de la mirada de la "Design Justice"?***. Leslie Chan (University of Toronto, Canada)
+    * [Biography](../abstracts/#chaL)
 
 Moderador / Moderator: Eduardo Giordanino (Universidad de Buenos Aires, Argentina)
 
@@ -66,10 +70,13 @@ Moderador / Moderator: Eduardo Giordanino (Universidad de Buenos Aires, Argentin
 ### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 9:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Parallel Workshops 3</span>
 1. ***Geographic diversity in academic publishing: could all voices be heard? /Diversidad geográfica en la publicación académica: pueden oirse todas las voces?***. Barbara Rivera (Universidad de Chile) (Spanish)
+    * [Abstract and Biography](../abstracts/#rivB)
 
 2. ***What Open Science do we want? Challenges and disputes for the democratization of knowledge / Qué Ciencia Abierta queremos? Desafíos y disputas en la democratización del conocimiento***. Thaiane Oliveira (Universidade Federal Fluminense, Brazil) (English)
+    * [Abstract and Biography](../abstracts/#oliT)
     
 3. ***Datos, humanidades y antropoceno: abriendo prácticas / Data, humanities and the antropocene: opening practices***. Virginia Brussa (Universidad Nacional de Rosario, Argentina)
+    * [Abstract and Biography](../abstracts/#bruV)
 
                                         **Break**
 
@@ -87,6 +94,7 @@ Moderator / Moderadora: Fiona Murphy (MoreBrains, UK)
 ***Tendencias Recientes en las Políticas Científicas de Ciencia Abierta y Acceso Abierto en Iberoamérica (CLACSO)***. Dominique Babini (CLACSO-Amelica) y Laura Rovelli (UNLP-CONICET, FOLEC, Argentina)
 
 ***Herramienta 2 FOLEC-CLACSO. Para promover la bibliodiversidad y defender el multilingüismo***. Fernanda Beigel (INCIHUSA-CONICET/Centro de Estudios de la Circulación del Conocimiento- FCPYS-UNCuyo-Argentina)
+    * [Biography](../abstracts/#beiF)
 
   Moderator / Moderador: Carlos Authier (CONICET, Argentina)
 
