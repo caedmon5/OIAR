@@ -96,7 +96,7 @@ Moderator / Moderador: Carlos Authier (CONICET, Argentina)
 
 ### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 12:00-13:00 Toronto)</span>
 #### <span style="color: SlateGray;">Conversations 3: Open Publishing Infrastructures 2 / Infraestructuras abiertas para la publicación científica (Simultaneous interpretation)</span> 
-***The good, the bad and the ugly / El bueno, el feo y el malo. Sobre las infraestructuras abiertas para la publicación científica en América Latina***. [Ivonne Lujano](../abstracts/#alpJ) (DOAJ América Latina, University of Arizona, USA) & [Juan Pablo Alperin](../abstracts/#lujI) (Simon Fraser University, Canada)
+***The good, the bad and the ugly / El bueno, el feo y el malo. Sobre las infraestructuras abiertas para la publicación científica en América Latina***. [Ivonne Lujano](../abstracts/#lujI) (DOAJ América Latina, University of Arizona, USA) & [Juan Pablo Alperin](../abstracts/#alpJ) (Simon Fraser University, Canada)
 
   Moderator / Moderador: Néstor Daniel Martínez-Domínguez (Universidad Nacional Autónoma Metropolitana, Mexico)
 
