@@ -2,7 +2,7 @@
 layout: post
 title: About the Symposium
 subtitle: Sobre el simposio
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/BannerAmericaInvertida.png
 thumbnail-img: /assets/img/MahsaThumbCroppedTransparent.png
 share-img: /assets/img/path.jpg
 tags: [about]
