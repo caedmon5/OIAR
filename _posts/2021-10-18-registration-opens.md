@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Registration Opens / Inscripción abierta
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/banneramerica.png
 thumbnail-img: /assets/img/MahsaThumbCroppedTransparent.png
 share-img: /assets/img/path.jpg
 tags: [about,registration]
