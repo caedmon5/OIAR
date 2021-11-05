@@ -14,7 +14,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 
 
 ## <span style="color: DarkTurquoise;">MONDAY / LUNES 8</span> {#Monday}
-### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 10:00-11:00 Toronto)</span>
+### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 09:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Parallel Workshops 1</span>
 1. ***Digital Rights and Ethical Usage of (Big) Data / Derechos digitales y usos éticos de (grandes) datos***. Maria Paz Hermosilla (Universidad Adolfo Ibañez, Chile) (Spanish). [About this workshop](../abstracts/#pazM)
 
@@ -22,7 +22,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
    
                                          **Break**
 
-### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)</span>
+### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 12:00-13:00 Toronto)</span>
 #### <span style="color: SlateGray;">Parallel Workshops 2</span>
 
 1. ***Metrics and alternative metrics in Scholarly Publishing / Métricas y alternativas en la publicación científica***. Josmel Pacheco (Universidad San Ignacio de Loyola, Peru) (Spanish). [About this workshop](../abstracts/#pacJ)
@@ -32,7 +32,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 
 
 ## <span style="color: DarkTurquoise;">TUESDAY / MARTES 9</span>  {#Tuesday} 
-### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 10:00-11:00 Toronto)</span>
+### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 09:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Debate: Open Science on a Global Scale / Ciencia Abierta a escala global (Simultaneous interpretation)</span> 
 ***The Value of Open Science / El valor de la Ciencia Abierta***. [Jean-Claude Burgelman](../abstracts/#burJ) (Free University of Brussels, Belgium). 
  
@@ -44,7 +44,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 
                                         **Break**
 
-### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)</span>
+### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 12:00-13:00 Toronto)</span>
 #### <span style="color: SlateGray;">Conversations 1: Open Publishing Infrastructures 1 / Infraestructuras abiertas para la publicación científica (Simultaneous interpretation)</span>
 ***LAReferencia and Érudit***. [Bianca Amaro](../abstracts/#amaB) (IBICT, Brazil) & [Tanja Niemann](../abstracts/#nieT) (Érudit Consortium, Canada)
 
@@ -59,7 +59,7 @@ Moderador / Moderator: Eduardo Giordanino (Universidad de Buenos Aires, Argentin
 
 
 ## <span style="color: DarkTurquoise;">WEDNESDAY / MIERCOLES 10</span>  {#Wednesday}
-### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 10:00-11:00 Toronto)</span>
+### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 09:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Parallel Workshops 3</span>
 1. ***Geographic diversity in academic publishing: could all voices be heard? /Diversidad geográfica en la publicación académica: pueden oirse todas las voces?***. Barbara Rivera (Universidad de Chile) (Spanish). [About this workshop](../abstracts/#rivB)
 
@@ -69,7 +69,7 @@ Moderador / Moderator: Eduardo Giordanino (Universidad de Buenos Aires, Argentin
 
                                         **Break**
 
-### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)</span>
+### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 12:00-13:00 Toronto)</span>
 #### <span style="color: SlateGray;">Conversations 2: Open Scholarship (Simultaneous interpretation)</span>
 ***Labour and Reward in Science / Trabajo y premios en la investigación***. [Ricardo Dal Farra](../abstracts/#dalR) (Université Concordia, Canada) & [Vincent Larivière](../abstracts/#larV) (Université Montréal, Canada)
 
@@ -78,7 +78,7 @@ Moderator / Moderadora: Fiona Murphy (MoreBrains, UK)
 
 
 ## <span style="color: DarkTurquoise;">THURSDAY / JUEVES 11</span>  {#Thursday}
-### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 10:00-11:00 Toronto)</span>
+### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 09:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Book presentation and report / Presentación de libro e informe </span> 
 ***Tendencias Recientes en las Políticas Científicas de Ciencia Abierta y Acceso Abierto en Iberoamérica (CLACSO)***. [Dominique Babini](../abstracts/#babD) (CLACSO-Amelica) & [Laura Rovelli](../abstracts/#rovL) (UNLP-CONICET, FOLEC, Argentina)
 
@@ -86,7 +86,7 @@ Moderator / Moderadora: Fiona Murphy (MoreBrains, UK)
 
 Moderator / Moderador: Carlos Authier (CONICET, Argentina)
 
-### <span style="color: DarkCyan;">15:00-16:00 UTC (12:00-13:00 Santiago; 11:00-12:00 Toronto)</span>
+### <span style="color: DarkCyan;">15:00-16:00 UTC (12:00-13:00 Santiago; 10:00-11:00 Toronto)</span>
 #### <span style="color: SlateGray;">Bazaar / Bazar (Simultaneous interpretation)</span>
  ***REPO Project & FORCE11*** (Dan O'Donnell, John Chodacki, Mandy Taha, Gimena del Rio Riande)
 
@@ -94,7 +94,7 @@ Moderator / Moderador: Carlos Authier (CONICET, Argentina)
 
                                         **Break**
 
-### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 13:00-14:00 Toronto)</span>
+### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 12:00-13:00 Toronto)</span>
 #### <span style="color: SlateGray;">Conversations 3: Open Publishing Infrastructures 2 / Infraestructuras abiertas para la publicación científica (Simultaneous interpretation)</span> 
 ***The good, the bad and the ugly / El bueno, el feo y el malo. Sobre las infraestructuras abiertas para la publicación científica en América Latina***. [Ivonne Lujano](../abstracts/#lujI) (DOAJ América Latina, University of Arizona, USA) & [Juan Pablo Alperin](../abstracts/#alpJ) (Simon Fraser University, Canada)
 
