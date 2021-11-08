@@ -50,7 +50,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 
   Moderator /Moderador: Fernando Piraquive (Universidad Distrital Francisco José de Caldas - Centro de Investigaciones y Desarrollo Científico, Colombia)
 
-### <span style="color: DarkCyan;">18:00-19:00 UTC (15:00-16:00 Santiago; 14:00-15:00 Toronto)</span>
+### <span style="color: DarkCyan;">18:00-19:00 UTC (15:00-16:00 Santiago; 13:00-14:00 Toronto)</span>
 #### <span style="color: SlateGray;">Talk (Simultaneous interpretation)</span>
 ***Rethinking Scholarly Communications through the lens of Design Justice? / Repensar la comunicacion científica a través de la mirada de la "Design Justice"?***. [Leslie Chan](../abstracts/#chaL) (University of Toronto, Canada)
 
