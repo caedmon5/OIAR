@@ -18,7 +18,6 @@ navbar-links:
   Programme: 
     - Web-based programme: "programme"
     - ICS Calendar file: "assets/img/OIAR.ics" 
-  Registration: "register"
   Sponsors: "sponsors"
 
 # --- Logo --- #
