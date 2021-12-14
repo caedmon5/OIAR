@@ -16,7 +16,8 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 ## <span style="color: DarkTurquoise;">MONDAY / LUNES 8</span> {#Monday}
 ### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 09:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Parallel Workshops 1</span>
-1. ***Digital Rights and Ethical Usage of (Big) Data / Derechos digitales y usos éticos de (grandes) datos***. Maria Paz Hermosilla (Universidad Adolfo Ibañez, Chile) (Spanish). [About this workshop](../abstracts/#pazM)
+1. ***Digital Rights and Ethical Usage of (Big) Data / Derechos digitales y usos éticos de (grandes) datos***. Maria Paz Hermosilla (Universidad Adolfo Ibañez, Chile) (Spanish). [DOI:5765784](https://doi.org/10.5281/zenodo.5765784).
+[About this workshop](../abstracts/#pazM)
 
 2. ***Translation Systems for Global Knowledge Justice / Sistemas de traducción para un conocimiento justo y  global***. Simon Worthington (FORCE11) (English). [About this workshop](../abstracts/#worS)
    
@@ -25,9 +26,9 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 ### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 12:00-13:00 Toronto)</span>
 #### <span style="color: SlateGray;">Parallel Workshops 2</span>
 
-1. ***Metrics and alternative metrics in Scholarly Publishing / Métricas y alternativas en la publicación científica***. Josmel Pacheco (Universidad San Ignacio de Loyola, Peru) (Spanish). [About this workshop](../abstracts/#pacJ)
+1. ***Metrics and alternative metrics in Scholarly Publishing / Métricas y alternativas en la publicación científica***. Josmel Pacheco (Universidad San Ignacio de Loyola, Peru) (Spanish). [DOI:5722412](https://doi.org/10.5281/zenodo.5722412). [About this workshop](../abstracts/#pacJ)
 
-2. ***Developing a REPO Assessment Workbook: Supporting Open Science Communities in the Transition to Online Learning***. Nathan Woods (University of Lethbridge, Canada) (English). [About this workshop](../abstracts/#wooN)
+2. ***Developing a REPO Assessment Workbook: Supporting Open Science Communities in the Transition to Online Learning***. Nathan Woods (University of Lethbridge, Canada) (English). [DOI:5655304](https://doi.org/10.5281/zenodo.5655304). [About this workshop](../abstracts/#wooN)
 
 
 
@@ -36,9 +37,9 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 #### <span style="color: SlateGray;">Debate: Open Science on a Global Scale / Ciencia Abierta a escala global (Simultaneous interpretation)</span> 
 ***The Value of Open Science / El valor de la Ciencia Abierta***. [Jean-Claude Burgelman](../abstracts/#burJ) (Free University of Brussels, Belgium). 
  
-***The Brave New World? Turning Open Science Principles into Practice / Un mundo feliz? Tranformando los principios de la Ciencia Abierta en prácticas***. [Paul Ayris](../abstracts/#ayrP) (UCL Library Services, UK).
+***The Brave New World? Turning Open Science Principles into Practice / Un mundo feliz? Tranformando los principios de la Ciencia Abierta en prácticas***. [DOI:5765724](https://doi.org/10.5281/zenodo.5765724). [Paul Ayris](../abstracts/#ayrP). (UCL Library Services, UK).
 
-***Políticas para favorecer el Acceso Abierto no comercial***. [Arianna Becerril](../abstracts/#becA) (Redalyc - Amelica, Mexico).
+***Políticas para favorecer el Acceso Abierto no comercial***. [DOI:5765718](https://doi.org/10.5281/zenodo.5765718). [Arianna Becerril](../abstracts/#becA) (Redalyc - Amelica, Mexico).
 
   Moderator / Moderador: Wouter Schallier (Hernán Santa Cruz Library - ECLAC; Chile)
 
@@ -46,7 +47,7 @@ A [calendar (.ics file) is available for this conference](assets/img/OIAR.ics)
 
 ### <span style="color: DarkCyan;">17:00-18:00 UTC (14:00-15:00 Santiago; 12:00-13:00 Toronto)</span>
 #### <span style="color: SlateGray;">Conversations 1: Open Publishing Infrastructures 1 / Infraestructuras abiertas para la publicación científica (Simultaneous interpretation)</span>
-***LAReferencia and Érudit***. [Bianca Amaro](../abstracts/#amaB) (IBICT, Brazil) & [Tanja Niemann](../abstracts/#nieT) (Érudit Consortium, Canada)
+***LAReferencia and Érudit***. [Bianca Amaro](../abstracts/#amaB) (IBICT, Brazil) & [Tanja Niemann](../abstracts/#nieT). [DOI:5765649](https://doi.org/10.5281/zenodo.5765649). (Érudit Consortium, Canada)
 
   Moderator /Moderador: Fernando Piraquive (Universidad Distrital Francisco José de Caldas - Centro de Investigaciones y Desarrollo Científico, Colombia)
 
@@ -61,11 +62,11 @@ Moderador / Moderator: Eduardo Giordanino (Universidad de Buenos Aires, Argentin
 ## <span style="color: DarkTurquoise;">WEDNESDAY / MIERCOLES 10</span>  {#Wednesday}
 ### <span style="color: DarkCyan;">14:00-15:00 UTC (11:00-12:00 Santiago; 09:00-10:00 Toronto)</span>
 #### <span style="color: SlateGray;">Parallel Workshops 3</span>
-1. ***Geographic diversity in academic publishing: could all voices be heard? /Diversidad geográfica en la publicación académica: pueden oirse todas las voces?***. Barbara Rivera (Universidad de Chile) (Spanish). [About this workshop](../abstracts/#rivB)
+1. ***Geographic diversity in academic publishing: could all voices be heard? /Diversidad geográfica en la publicación académica: pueden oirse todas las voces?***. Barbara Rivera (Universidad de Chile) (Spanish).[DOI:5722437](https://doi.org/10.5281/zenodo.5722437). [About this workshop](../abstracts/#rivB)
 
 2. ***What Open Science do we want? Challenges and disputes for the democratization of knowledge / Qué Ciencia Abierta queremos? Desafíos y disputas en la democratización del conocimiento***. Thaiane Oliveira (Universidade Federal Fluminense, Brazil) (English). [About this workshop](../abstracts/#oliT)
     
-3. ***Datos, humanidades y antropoceno: abriendo prácticas / Data, humanities and the antropocene: opening practices***. Virginia Brussa (Universidad Nacional de Rosario, Argentina). [About this workshop](../abstracts/#bruV)
+3. ***Datos, humanidades y antropoceno: abriendo prácticas / Data, humanities and the antropocene: opening practices***. Virginia Brussa (Universidad Nacional de Rosario, Argentina). [DOI:5668334](https://doi.org/10.5281/zenodo.5668334). [About this workshop](../abstracts/#bruV)
 
                                         **Break**
 
